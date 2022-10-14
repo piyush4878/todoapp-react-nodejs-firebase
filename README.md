@@ -1,10 +1,10 @@
 
-
+# Preview of project :
 ![Capture](https://user-images.githubusercontent.com/80036366/195760556-cffa9b85-de86-4ed6-900a-70bb423c353f.JPG)
-
-
-
-![Capture](https://user-images.githubusercontent.com/80036366/195760616-ffc44b4f-69ee-4075-a029-c4c4cf38f538.JPG)
+## Frontend : Reactjs , Html , css , javaScript , Material UI 
+## Backend : Firebase 
+### Highlights : It is an functional CRUD application and hosted on firebase using firbase real time database , firebase gives seemless experience.
+### We can add on resume and explain the project. 
 
 
 
