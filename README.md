@@ -4,7 +4,7 @@
 ## Frontend : Reactjs , Html , css , javaScript , Material UI 
 ## Backend : Firebase 
 ### Highlights : It is an functional CRUD application and hosted on firebase using firbase real time database , firebase gives seemless experience.
-### We can add on resume and explain the project. 
+
 
 
 
