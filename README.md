@@ -14,3 +14,5 @@ Welcome to the Todo App repository! This project showcases a robust and feature-
 
 - **Firebase Realtime Database**: Harness the power of Firebase Realtime Database for robust data storage and retrieval. Your tasks are stored in real-time, ensuring the latest updates are always at your fingertips.
 
+Credits ❤️
+This project was created with ❤️ as a part of coding journey.
